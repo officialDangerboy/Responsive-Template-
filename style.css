@@ -294,7 +294,7 @@ main{
   }
 
   .heroSec, .heroSec2, .heroSec3, .heroSec4 {
-    height: 40%;
+    height: 40vw;
   }
 
   .aboueSec {
@@ -485,7 +485,7 @@ main{
   }
 
   .heroSec, .heroSec2, .heroSec3, .heroSec4 {
-    height: 40%;
+    height: 40vw;
   }
 
   .aboueSec {
